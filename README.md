@@ -39,7 +39,20 @@ python3 irs-utility-1.py
 ```bash
 The requested form information is as follows:
 
-[{"form_number": "Publ 15", "form_title": "Circular E, Employer's Tax Guide", "min_year": "1988", "max_year": "2021"}, {"form_number": "Form W-2", "form_title": "Wage and Tax Statement (Info Copy Only)", "min_year": "1954", "max_year": "2021"}]
+[
+    {
+        "form_number": "Publ 15",
+        "form_title": "Circular E, Employer's Tax Guide",
+        "min_year": "1988",
+        "max_year": "2021"
+    },
+    {
+        "form_number": "Form W-2",
+        "form_title": "Wage and Tax Statement (Info Copy Only)",
+        "min_year": "1954",
+        "max_year": "2021"
+    }
+]
 ```
 
 
