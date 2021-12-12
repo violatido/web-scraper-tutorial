@@ -62,7 +62,7 @@ def get_form_info(form_names):
   return f"The requested form information is as follows:\n\n{jd}"
 
 ## BLANK INPUT ##
-# print(get_form_info([]))
+print(get_form_info([]))
 
 ## EXAMPLE INPUT ##
-print(get_form_info(["Publ 15", "Form W-2"]))
+# print(get_form_info(["Publ 15", "Form W-2"]))
